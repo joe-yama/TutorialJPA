@@ -1,0 +1,13 @@
+package com.techacademy.turorial_jpa;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class TurorialJpaApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
